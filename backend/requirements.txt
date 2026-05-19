@@ -19,7 +19,7 @@ email-validator==2.1.1
 
 # File uploads (box photos)
 python-multipart==0.0.9
-Pillow==10.3.0
+Pillow==12.2.0
 
 # 3D bin packing optimization
 py3dbp==1.1.2
